@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "categoryName": "Zwierzęta",
+      "values": "żyrafa"
+    },
+    {
+      "categoryName": "Zwierzęta",
+      "values": "pies"
+    },
+    {
+      "categoryName": "Zabawki",
+      "values": "konik na biegunach"
+    }
+  ]
+}
